@@ -1,1 +1,1 @@
-# bubbleSort-DSA
+# Sorting-DSA
